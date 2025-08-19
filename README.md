@@ -1,5 +1,6 @@
 # Germination
-             Website by Roohith
+
+_Website by Roohith_
              
 <img width="2240" height="1260" alt="image" src="https://github.com/user-attachments/assets/53f13de6-6fa1-41a3-a813-c70a1b22afeb" />
              
