@@ -20,7 +20,7 @@ Medicinal & economic significance– Several plants emerged from seeds, includin
 
 Scientific research & biotechnology– Seed germination is studied to improve crop resilience, increase food production, and develop drought-tolerant plant varieties.
 
-<img width="1500" height="1095" alt="image" src="https://github.com/user-attachments/assets/8cf8e7e1-72c8-4d94-9961-a96e3673c774" />
+<img width="310" height="162" alt="image" src="https://github.com/user-attachments/assets/8cf8e7e1-72c8-4d94-9961-a96e3673c774" />
 
 # Explanation
 
