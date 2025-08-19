@@ -2,7 +2,7 @@
 
 _Website by Roohith_
              
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/53f13de6-6fa1-41a3-a813-c70a1b22afeb" />
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/53f13de6-6fa1-41a3-a813-c70a1b22afeb" />
              
 # Why is seed germination important?
 
